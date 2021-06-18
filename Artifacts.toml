@@ -1,0 +1,228 @@
+[[MibS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "198407132e5cfb799cecaf072431d5da17d0a351"
+libc = "glibc"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "3ec88cfe52d3d865aa798c46c3cd6be0e716f2d4ceee351ac1717f330b1210bb"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.aarch64-linux-gnu-cxx03.tar.gz"
+[[MibS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "99a2cf48a3bb2f3ca61654052c372c70fba490ef"
+libc = "glibc"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "999cc15cb2e118b24daab7a5a6d8e247b84e64eb1089871167d84093afc2277d"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.aarch64-linux-gnu-cxx11.tar.gz"
+[[MibS]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "55425fe0abf36ebd9a5819422b75d57a9eecee3a"
+libc = "musl"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "4d4c782ae21a6ee6ac2ca16406750c7629ef00dd99a2726eb5ed66b63660dcd6"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.aarch64-linux-musl-cxx03.tar.gz"
+[[MibS]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "49c518f8e46301756e329b6edc1d813fe4724e84"
+libc = "musl"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "0114fe0b64de5bff63e9fb8e7f757787dc95c3e0704561da9e761c18ea4d4c03"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.aarch64-linux-musl-cxx11.tar.gz"
+[[MibS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a10a85d3545a357c73004a15dead021652c96200"
+libc = "glibc"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "b6d11f9c1b30f76986f656ecb44470840c66ae9e17228f9dc5f22955f6f68b65"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[MibS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0fb925d6ac97383babead614cc13c3fd8ca44f84"
+libc = "glibc"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "45528ed753e7297f0aa463ccf7b994e7152e0a6d6ed2e2bc44e3df98f7ce20a4"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[MibS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b3363b20215f2990591bd2010715c6b8310f1b1e"
+libc = "musl"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "59727a2c3220e92f1524d590f5a3a287c65a74b2629278f305b8672f6b9e0794"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[MibS]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "629336c750b08e99cba62423414f341e9e2aa3e6"
+libc = "musl"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "ed502633d8c5a448563254c04186d1e061fec73c84fd5018dc9d4cd10b02fce3"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[MibS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b404bd26e2b33615bbfa9dec7f32a35d89310941"
+libc = "glibc"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "10861b9786ad7638aaefe380a0877e79457b03e30370557b952d202a12c23964"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.i686-linux-gnu-cxx03.tar.gz"
+[[MibS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c4169dd9bed47a488e060d477afba7fa68f38ac"
+libc = "glibc"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "e9584edddec80adb4a3732264309b73878df37894be5eec471b53468a90283b7"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.i686-linux-gnu-cxx11.tar.gz"
+[[MibS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bb265f42557ac8c5439d605a2840e2deff467903"
+libc = "musl"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "25e57e7dc040e4a4fa86a9e7da976cc27557d475d723c1746c389f9f360b7798"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.i686-linux-musl-cxx03.tar.gz"
+[[MibS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc3931e6f33f930e4e779902a313c9aedb848cbf"
+libc = "musl"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "fecb40c969cadc9e8dd12da0fcf1aaa0e6bb47c5f2e47677db7a6c4d3fbb72c6"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.i686-linux-musl-cxx11.tar.gz"
+[[MibS]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e925330c7b0eaa523f2f8a6488e99436205f53f2"
+os = "windows"
+
+    [[MibS.download]]
+    sha256 = "a859265e2c86bb68d11cb6107cbcc47c76570f43d0032451ee20329025ad92d1"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.i686-w64-mingw32-cxx03.tar.gz"
+[[MibS]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9fce06e80bd794784c4c62c37f34a6e92a1ff6d"
+os = "windows"
+
+    [[MibS.download]]
+    sha256 = "87a224b802565c19c7345b952969d5373a690f33418155f5e668f2b2d2324fa7"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.i686-w64-mingw32-cxx11.tar.gz"
+[[MibS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c410dec8caf0a55fb9059fd46750e0404c812e52"
+libc = "glibc"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "de996f8eb8f39ad2c0f7383c131cd5e5fc1017acb91d5b231e9747666276c04b"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[MibS]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "835dfa87f81ce04e1bf2ba2ded0bed651546817a"
+libc = "glibc"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "f8cb5efd36ac592e45a71e65b10bbdd8d128d9e6099d948b941134f625972128"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[MibS]]
+arch = "x86_64"
+git-tree-sha1 = "4f25eda3b3abc2caf1bb7bb1f35cd0b46939a7cf"
+os = "macos"
+
+    [[MibS.download]]
+    sha256 = "78500bfe51f64217090a73ce010d3c52911b056d25e75ff88ca04bd53dd41258"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.x86_64-apple-darwin.tar.gz"
+[[MibS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e13e86d1793a40c6022a8c82048a28a2ddbc6bb2"
+libc = "glibc"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "17797842caf7028948138aa1ee13749cc5caaa773050456dfb5645e1e306011b"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[MibS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21db3ae510f52e3d4c1980249931bb4b59ae717b"
+libc = "glibc"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "d280d92e88fbf94728269f19cb862f9422020d31513f9ee4aa09b2f44cc06a42"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[MibS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2da576a13bb12350f68c5a1f23568de66bd17030"
+libc = "musl"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "56ee1299924c7846bd1bc78bb0f44bff73876edb12b61e12eb86cf6e27d2a620"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.x86_64-linux-musl-cxx03.tar.gz"
+[[MibS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2771aa208eb750d0e55dc6f7ab11cb40808183d5"
+libc = "musl"
+os = "linux"
+
+    [[MibS.download]]
+    sha256 = "5ceef13b95bc1583d3191cf1050abfdd77a08b21fbd155f232fe6181e5fae91b"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.x86_64-linux-musl-cxx11.tar.gz"
+[[MibS]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b9d395ccb958ba0ac87225893b9ce97ed1a9ec60"
+os = "windows"
+
+    [[MibS.download]]
+    sha256 = "4d25284956ca2995d705da58ab2b52bd172734a7e9898da257f0611b8e23d13b"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.x86_64-w64-mingw32-cxx03.tar.gz"
+[[MibS]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "29a6903789fc7cdd2400375d06db24d89c562bea"
+os = "windows"
+
+    [[MibS.download]]
+    sha256 = "22d0fbcacc3d6d6aeae0604c8095d293d3766a17e04f18ea74cb5e2be38101da"
+    url = "https://github.com/JuliaBinaryWrappers/MibS_jll.jl/releases/download/MibS-v1.1.3+0/MibS.v1.1.3.x86_64-w64-mingw32-cxx11.tar.gz"
